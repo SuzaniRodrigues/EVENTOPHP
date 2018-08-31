@@ -51,5 +51,5 @@
 </form>
 
 <?php
-	include "posterior.php";
+
 ?>
